@@ -112,6 +112,6 @@
 
   
   ## Контактная информация :mailbox:
-- Email: name@email.com
+- Email: polenova.n@mail.ru
 - LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+
