@@ -18,10 +18,10 @@
  ## 	:file_folder: Проекты
 
  - > <a href="https://github.com/NadezhdaMalinovskaya/DA_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201"> Калькулятор юнит-экономики онлайн-школы </a>
- - Калькулятор юнит-экономики онлайн-кинотеатра
- - Когортный анализ онлайн-кинотеатра с помощью SQL
- - Построение витрины для модели машинного обучения в банке 
- - Моделирование изменения балансов студентов
+ - > <a href="https://github.com/NadezhdaMalinovskaya/DA_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202"> Калькулятор юнит-экономики онлайн-кинотеатра </a>
+ - > <a href="https://github.com/NadezhdaMalinovskaya/DA_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203"> Когортный анализ онлайн-кинотеатра с помощью SQL </a>
+ - > <a href="https://github.com/NadezhdaMalinovskaya/DA_portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%204"> Моделирование изменения балансов студентов </a>
+
 
   
   ## Контактная информация :mailbox:
