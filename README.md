@@ -4,11 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
+
   ### :woman_technologist: Обо мне: 
   Меня зовут Надежда, я начинающий аналитик данных. В данном репозитории Вы можете найти некоторое из моих проектов во время учебы и практики, а также ознакомиться с инструментами, которыми я владею. 
   
@@ -18,9 +14,7 @@
 - Языки программирования и библиотеки: ``Python``
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``PowerBi``
-
-
-  ## Проекты
+ ## 	:file_folder: Проекты
 
   <p> Проект 1: Калькулятор юнит-экономики онлайн-школы</p>
 <p>Что нужно было сделать:<p>
@@ -112,8 +106,13 @@
 
   
   ## Контактная информация :mailbox:
-- Email: polenova.n@mail.ru
-- LinkedIn: https://www.linkedin.com/in/username/
+-  :e-mail: polenova.n@mail.ru
+
+- <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif" width="100"/>
